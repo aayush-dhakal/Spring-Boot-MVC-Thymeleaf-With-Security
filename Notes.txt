@@ -1,0 +1,5 @@
+1. After adding spring security, you will be redirected to login page. There provide the username as "user" and password as whatever is mentioned in console. You should get a long hashed passoword in console after setting up the infra properly.
+2. After this you can use the app normally.
+
+--- for returning user
+1. First register then login to create a club
